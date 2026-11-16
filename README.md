@@ -30,3 +30,9 @@
 ```bash
 git clone https://github.com/kuro-1/hide_followers_following_list.git
 cd hide_followers_following_list
+
+## 💻 Windows GUI Download
+
+You can download the standalone Windows executable (`InstagramHideLists.exe`) directly from the [Releases](https://github.com/kuro-1/hide_followers_following_list/releases) page—no Python installation required.
+
+> **Note on Windows SmartScreen Warning:** Because this executable is unsigned, Windows Defender SmartScreen may display a *"Windows protected your PC"* prompt when you first run it. Click **More info** $\rightarrow$ **Run anyway** to launch the app, or inspect `gui_hide_lists.py` and build it yourself.
