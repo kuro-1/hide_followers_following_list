@@ -31,6 +31,8 @@
 git clone https://github.com/kuro-1/hide_followers_following_list.git
 cd hide_followers_following_list
 
+؛؛؛
+
 ## 💻 Windows GUI Download
 
 You can download the standalone Windows executable (`InstagramHideLists.exe`) directly from the [Releases](https://github.com/kuro-1/hide_followers_following_list/releases) page—no Python installation required.
