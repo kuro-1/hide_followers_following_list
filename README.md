@@ -28,5 +28,5 @@
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/kuro-1/hide_followers_following_list.git](https://github.com/kuro-1/hide_followers_following_list.git)
+git clone https://github.com/kuro-1/hide_followers_following_list.git
 cd hide_followers_following_list
